@@ -1,0 +1,31 @@
+1	admin	logentry
+2	auth	permission
+3	auth	group
+4	contenttypes	contenttype
+5	sessions	session
+6	users	user
+7	api	category
+8	api	consignment
+9	api	container
+10	api	customer
+11	api	shipment
+12	api	warehouse
+13	api	whatsapp
+14	api	good
+15	api	supplier
+16	api	goodconsignment
+17	api	sms
+18	api	bill
+19	api	otp
+20	api	historicalwarehouse
+21	authtoken	token
+22	authtoken	tokenproxy
+23	api	notification
+24	api	announcement
+25	api	job
+26	api	textsms
+27	api	jobfailurelog
+28	api	customerdevice
+\.
+
+

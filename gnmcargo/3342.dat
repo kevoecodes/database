@@ -1,0 +1,115 @@
+1	Can add log entry	1	add_logentry
+2	Can change log entry	1	change_logentry
+3	Can delete log entry	1	delete_logentry
+4	Can view log entry	1	view_logentry
+5	Can add permission	2	add_permission
+6	Can change permission	2	change_permission
+7	Can delete permission	2	delete_permission
+8	Can view permission	2	view_permission
+9	Can add group	3	add_group
+10	Can change group	3	change_group
+11	Can delete group	3	delete_group
+12	Can view group	3	view_group
+13	Can add content type	4	add_contenttype
+14	Can change content type	4	change_contenttype
+15	Can delete content type	4	delete_contenttype
+16	Can view content type	4	view_contenttype
+17	Can add session	5	add_session
+18	Can change session	5	change_session
+19	Can delete session	5	delete_session
+20	Can view session	5	view_session
+21	Can add user	6	add_user
+22	Can change user	6	change_user
+23	Can delete user	6	delete_user
+24	Can view user	6	view_user
+25	Can add category	7	add_category
+26	Can change category	7	change_category
+27	Can delete category	7	delete_category
+28	Can view category	7	view_category
+29	Can add consignment	8	add_consignment
+30	Can change consignment	8	change_consignment
+31	Can delete consignment	8	delete_consignment
+32	Can view consignment	8	view_consignment
+33	Can add container	9	add_container
+34	Can change container	9	change_container
+35	Can delete container	9	delete_container
+36	Can view container	9	view_container
+37	Can add customer	10	add_customer
+38	Can change customer	10	change_customer
+39	Can delete customer	10	delete_customer
+40	Can view customer	10	view_customer
+41	Can add shipment	11	add_shipment
+42	Can change shipment	11	change_shipment
+43	Can delete shipment	11	delete_shipment
+44	Can view shipment	11	view_shipment
+45	Can add warehouse	12	add_warehouse
+46	Can change warehouse	12	change_warehouse
+47	Can delete warehouse	12	delete_warehouse
+48	Can view warehouse	12	view_warehouse
+49	Can add whatsapp	13	add_whatsapp
+50	Can change whatsapp	13	change_whatsapp
+51	Can delete whatsapp	13	delete_whatsapp
+52	Can view whatsapp	13	view_whatsapp
+53	Can add good	14	add_good
+54	Can change good	14	change_good
+55	Can delete good	14	delete_good
+56	Can view good	14	view_good
+57	Can add supplier	15	add_supplier
+58	Can change supplier	15	change_supplier
+59	Can delete supplier	15	delete_supplier
+60	Can view supplier	15	view_supplier
+61	Can add good consignment	16	add_goodconsignment
+62	Can change good consignment	16	change_goodconsignment
+63	Can delete good consignment	16	delete_goodconsignment
+64	Can view good consignment	16	view_goodconsignment
+65	Can add sms	17	add_sms
+66	Can change sms	17	change_sms
+67	Can delete sms	17	delete_sms
+68	Can view sms	17	view_sms
+69	Can add bill	18	add_bill
+70	Can change bill	18	change_bill
+71	Can delete bill	18	delete_bill
+72	Can view bill	18	view_bill
+73	Can add otp	19	add_otp
+74	Can change otp	19	change_otp
+75	Can delete otp	19	delete_otp
+76	Can view otp	19	view_otp
+77	Can add historical warehouse	20	add_historicalwarehouse
+78	Can change historical warehouse	20	change_historicalwarehouse
+79	Can delete historical warehouse	20	delete_historicalwarehouse
+80	Can view historical warehouse	20	view_historicalwarehouse
+81	Can add Token	21	add_token
+82	Can change Token	21	change_token
+83	Can delete Token	21	delete_token
+84	Can view Token	21	view_token
+85	Can add token	22	add_tokenproxy
+86	Can change token	22	change_tokenproxy
+87	Can delete token	22	delete_tokenproxy
+88	Can view token	22	view_tokenproxy
+89	Can add notification	23	add_notification
+90	Can change notification	23	change_notification
+91	Can delete notification	23	delete_notification
+92	Can view notification	23	view_notification
+93	Can add announcement	24	add_announcement
+94	Can change announcement	24	change_announcement
+95	Can delete announcement	24	delete_announcement
+96	Can view announcement	24	view_announcement
+97	Can add job	25	add_job
+98	Can change job	25	change_job
+99	Can delete job	25	delete_job
+100	Can view job	25	view_job
+101	Can add text sms	26	add_textsms
+102	Can change text sms	26	change_textsms
+103	Can delete text sms	26	delete_textsms
+104	Can view text sms	26	view_textsms
+105	Can add job failure log	27	add_jobfailurelog
+106	Can change job failure log	27	change_jobfailurelog
+107	Can delete job failure log	27	delete_jobfailurelog
+108	Can view job failure log	27	view_jobfailurelog
+109	Can add customer device	28	add_customerdevice
+110	Can change customer device	28	change_customerdevice
+111	Can delete customer device	28	delete_customerdevice
+112	Can view customer device	28	view_customerdevice
+\.
+
+
